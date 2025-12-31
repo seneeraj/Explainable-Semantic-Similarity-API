@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+numpy
+sentence-transformers
+spacy
+pytextrank
+scikit-learn
