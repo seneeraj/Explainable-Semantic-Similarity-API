@@ -1,0 +1,1241 @@
+[
+  {
+    "id": "GS-01",
+    "source_document": "Ethical sourcing and supplier audits ensure sustainability and regulatory compliance.",
+    "candidate_document": "Supplier audits help companies meet compliance requirements.",
+    "human_similarity": 0.8,
+    "concept_labels": {
+      "ethical sourcing": "Missing",
+      "supplier audits": "Found"
+    }
+  },
+  {
+    "id": "GS-02",
+    "source_document": "Supply chain resilience requires diversification and redundancy.",
+    "candidate_document": "Diversified supply chains are more resilient to disruptions.",
+    "human_similarity": 0.88,
+    "concept_labels": {
+      "supply chain resilience": "Found",
+      "redundancy": "Missing"
+    }
+  },
+  {
+    "id": "GS-03",
+    "source_document": "Risk governance policies and ethical compliance are mandatory.",
+    "candidate_document": "Risk governance policies are essential for compliance.",
+    "human_similarity": 0.75,
+    "concept_labels": {
+      "risk governance policies": "Found",
+      "ethical compliance": "Missing"
+    }
+  },
+  {
+    "id": "GS-04",
+    "source_document": "Cybersecurity incident response requires monitoring and reporting.",
+    "candidate_document": "Incident response planning is essential in cybersecurity.",
+    "human_similarity": 0.65,
+    "concept_labels": {
+      "incident response": "Found",
+      "monitoring": "Missing",
+      "reporting": "Missing"
+    }
+  },
+  {
+    "id": "GS-05",
+    "source_document": "Environmental sustainability and ethical sourcing drive long-term growth.",
+    "candidate_document": "Sustainability initiatives support long-term business growth.",
+    "human_similarity": 0.7,
+    "concept_labels": {
+      "environmental sustainability": "Found",
+      "ethical sourcing": "Missing"
+    }
+  },
+  {
+    "id": "GS-06",
+    "source_document": "Data privacy regulations require consent management and audit trails.",
+    "candidate_document": "Consent management is essential for data privacy compliance.",
+    "human_similarity": 0.78,
+    "concept_labels": {
+      "data privacy regulations": "Found",
+      "audit trails": "Missing"
+    }
+  },
+  {
+    "id": "GS-07",
+    "source_document": "Financial risk assessment involves credit evaluation and stress testing.",
+    "candidate_document": "Stress testing is commonly used in financial risk analysis.",
+    "human_similarity": 0.72,
+    "concept_labels": {
+      "financial risk assessment": "Found",
+      "credit evaluation": "Missing"
+    }
+  },
+  {
+    "id": "GS-08",
+    "source_document": "Healthcare compliance requires patient consent and data protection.",
+    "candidate_document": "Patient consent is critical in healthcare systems.",
+    "human_similarity": 0.74,
+    "concept_labels": {
+      "healthcare compliance": "Found",
+      "data protection": "Missing"
+    }
+  },
+  {
+    "id": "GS-09",
+    "source_document": "Cloud security depends on identity management and access controls.",
+    "candidate_document": "Access controls are fundamental to cloud security.",
+    "human_similarity": 0.77,
+    "concept_labels": {
+      "cloud security": "Found",
+      "identity management": "Missing"
+    }
+  },
+  {
+    "id": "GS-10",
+    "source_document": "Corporate governance frameworks define accountability and oversight.",
+    "candidate_document": "Corporate governance ensures accountability in organizations.",
+    "human_similarity": 0.79,
+    "concept_labels": {
+      "corporate governance frameworks": "Found",
+      "oversight": "Missing"
+    }
+  },
+  {
+    "id": "GS-11",
+    "source_document": "Artificial intelligence ethics emphasizes fairness and transparency.",
+    "candidate_document": "Transparency is a core principle of AI ethics.",
+    "human_similarity": 0.73,
+    "concept_labels": {
+      "artificial intelligence ethics": "Found",
+      "fairness": "Missing"
+    }
+  },
+  {
+    "id": "GS-12",
+    "source_document": "Supply chain visibility improves forecasting and coordination.",
+    "candidate_document": "Real-time dashboards enhance coordination across suppliers.",
+    "human_similarity": 0.71,
+    "concept_labels": {
+      "supply chain visibility": "Found",
+      "forecasting": "Missing"
+    }
+  },
+  {
+    "id": "GS-13",
+    "source_document": "Digital transformation requires process automation and change management.",
+    "candidate_document": "Process automation accelerates digital initiatives.",
+    "human_similarity": 0.76,
+    "concept_labels": {
+      "digital transformation": "Found",
+      "change management": "Missing"
+    }
+  },
+  {
+    "id": "GS-14",
+    "source_document": "Environmental risk analysis assesses climate impact and mitigation.",
+    "candidate_document": "Climate impact assessments help evaluate environmental risks.",
+    "human_similarity": 0.74,
+    "concept_labels": {
+      "environmental risk analysis": "Found",
+      "mitigation": "Missing"
+    }
+  },
+  {
+    "id": "GS-15",
+    "source_document": "Information security policies define controls and incident handling.",
+    "candidate_document": "Security policies guide incident handling procedures.",
+    "human_similarity": 0.78,
+    "concept_labels": {
+      "information security policies": "Found",
+      "controls": "Missing"
+    }
+  },
+  {
+    "id": "GS-16",
+    "source_document": "Project risk management identifies threats and mitigation strategies.",
+    "candidate_document": "Risk identification is essential in project management.",
+    "human_similarity": 0.69,
+    "concept_labels": {
+      "project risk management": "Found",
+      "mitigation strategies": "Missing"
+    }
+  },
+  {
+    "id": "GS-17",
+    "source_document": "Customer data governance ensures accuracy and compliance.",
+    "candidate_document": "Data governance improves compliance in organizations.",
+    "human_similarity": 0.75,
+    "concept_labels": {
+      "customer data governance": "Found",
+      "accuracy": "Missing"
+    }
+  },
+  {
+    "id": "GS-18",
+    "source_document": "Fraud detection systems use anomaly detection and monitoring.",
+    "candidate_document": "Anomaly detection helps identify fraudulent activity.",
+    "human_similarity": 0.77,
+    "concept_labels": {
+      "fraud detection systems": "Found",
+      "monitoring": "Missing"
+    }
+  },
+  {
+    "id": "GS-19",
+    "source_document": "Business continuity planning ensures operational resilience.",
+    "candidate_document": "Operational resilience is critical for business continuity.",
+    "human_similarity": 0.82,
+    "concept_labels": {
+      "business continuity planning": "Found"
+    }
+  },
+  {
+    "id": "GS-20",
+    "source_document": "Regulatory compliance audits verify adherence to legal requirements.",
+    "candidate_document": "Compliance audits ensure organizations meet legal obligations.",
+    "human_similarity": 0.84,
+    "concept_labels": {
+      "regulatory compliance audits": "Found"
+    }
+  },
+  {
+    "id": "GS-021",
+    "source_document": "The organization enforces role-based access control to restrict system permissions.",
+    "candidate_document": "User privileges are assigned according to defined job roles.",
+    "human_similarity": 0.82,
+    "concept_labels": {
+      "role-based access control": "Found",
+      "system permission management": "Found",
+      "job role assignment": "Found",
+      "supplier audits": "Missing",
+      "carbon emissions tracking": "Missing"
+    }
+  },
+  {
+    "id": "GS-022",
+    "source_document": "Quarterly financial audits ensure compliance with accounting standards.",
+    "candidate_document": "The company conducts regular financial reviews aligned with reporting standards.",
+    "human_similarity": 0.85,
+    "concept_labels": {
+      "financial audits": "Found",
+      "accounting standards compliance": "Found",
+      "financial review processes": "Found",
+      "cybersecurity monitoring": "Missing",
+      "employee wellness programs": "Missing"
+    }
+  },
+  {
+    "id": "GS-023",
+    "source_document": "Cybersecurity awareness training is mandatory for all employees.",
+    "candidate_document": "Staff receive regular instruction on identifying and preventing cyber threats.",
+    "human_similarity": 0.83,
+    "concept_labels": {
+      "cybersecurity awareness training": "Found",
+      "employee training programs": "Found",
+      "threat prevention education": "Found",
+      "supplier diversification": "Missing",
+      "environmental disclosures": "Missing"
+    }
+  },
+  {
+    "id": "GS-024",
+    "source_document": "Data retention policies define storage durations for customer records.",
+    "candidate_document": "Customer information is retained according to established schedules.",
+    "human_similarity": 0.8,
+    "concept_labels": {
+      "data retention policies": "Found",
+      "customer record storage": "Found",
+      "data lifecycle management": "Found",
+      "financial audits": "Missing",
+      "supplier redundancy": "Missing"
+    }
+  },
+  {
+    "id": "GS-025",
+    "source_document": "Vendor performance is evaluated through compliance scorecards.",
+    "candidate_document": "Suppliers are assessed using standardized performance metrics.",
+    "human_similarity": 0.78,
+    "concept_labels": {
+      "vendor performance evaluation": "Found",
+      "compliance scorecards": "Found",
+      "supplier assessment metrics": "Found",
+      "data privacy controls": "Missing",
+      "carbon reduction initiatives": "Missing"
+    }
+  },
+  {
+    "id": "GS-026",
+    "source_document": "The sustainability initiative targets reductions in water usage.",
+    "candidate_document": "Operational changes aim to decrease water consumption.",
+    "human_similarity": 0.76,
+    "concept_labels": {
+      "water usage reduction": "Found",
+      "sustainability initiatives": "Found",
+      "resource efficiency measures": "Found",
+      "cybersecurity governance": "Missing",
+      "supplier audits": "Missing"
+    }
+  },
+  {
+    "id": "GS-027",
+    "source_document": "Incident response plans outline procedures for security breaches.",
+    "candidate_document": "Teams follow predefined steps to address detected cyber incidents.",
+    "human_similarity": 0.79,
+    "concept_labels": {
+      "incident response plans": "Found",
+      "security breach procedures": "Found",
+      "cyber incident handling": "Found",
+      "financial transparency": "Missing",
+      "ethical sourcing standards": "Missing"
+    }
+  },
+  {
+    "id": "GS-028",
+    "source_document": "Inventory optimization reduces warehousing and storage costs.",
+    "candidate_document": "Stock levels are adjusted to minimize warehouse expenses.",
+    "human_similarity": 0.77,
+    "concept_labels": {
+      "inventory optimization": "Found",
+      "storage cost reduction": "Found",
+      "warehouse efficiency": "Found",
+      "data encryption practices": "Missing",
+      "supplier compliance reviews": "Missing"
+    }
+  },
+  {
+    "id": "GS-029",
+    "source_document": "The company publishes disclosures on executive compensation.",
+    "candidate_document": "Executive pay structures are reported publicly.",
+    "human_similarity": 0.84,
+    "concept_labels": {
+      "executive compensation disclosure": "Found",
+      "public reporting practices": "Found",
+      "corporate governance transparency": "Found",
+      "cyber incident response": "Missing",
+      "environmental sustainability": "Missing"
+    }
+  },
+  {
+    "id": "GS-030",
+    "source_document": "Customer support operations use ticketing systems to track requests.",
+    "candidate_document": "Issue tracking tools help manage customer service inquiries.",
+    "human_similarity": 0.75,
+    "concept_labels": {
+      "customer support operations": "Found",
+      "ticketing systems": "Found",
+      "request tracking": "Found",
+      "supplier risk assessments": "Missing",
+      "carbon disclosures": "Missing"
+    }
+  },
+  {
+    "id": "GS-031",
+    "source_document": "The research examines coral reef ecosystems.",
+    "candidate_document": "The paper discusses machine learning models for image analysis.",
+    "human_similarity": 0.06,
+    "concept_labels": {
+      "coral reef ecosystems": "Missing",
+      "marine biodiversity research": "Missing",
+      "machine learning models": "Found",
+      "image analysis techniques": "Found",
+      "data governance frameworks": "Missing"
+    }
+  },
+  {
+    "id": "GS-032",
+    "source_document": "Urban planning focuses on expanding public transportation networks.",
+    "candidate_document": "The article explains cloud infrastructure cost optimization.",
+    "human_similarity": 0.1,
+    "concept_labels": {
+      "public transportation networks": "Missing",
+      "urban planning strategies": "Missing",
+      "cloud cost optimization": "Found",
+      "IT infrastructure management": "Found",
+      "supplier audits": "Missing"
+    }
+  },
+  {
+    "id": "GS-033",
+    "source_document": "The study evaluates patient recovery after surgery.",
+    "candidate_document": "The report outlines firewall configuration best practices.",
+    "human_similarity": 0.07,
+    "concept_labels": {
+      "patient recovery evaluation": "Missing",
+      "surgical outcome analysis": "Missing",
+      "firewall configuration": "Found",
+      "network security architecture": "Found",
+      "data privacy compliance": "Missing"
+    }
+  },
+  {
+    "id": "GS-034",
+    "source_document": "Economic analysis studies inflation and interest rate movements.",
+    "candidate_document": "The documentation explains container orchestration using Kubernetes.",
+    "human_similarity": 0.11,
+    "concept_labels": {
+      "inflation analysis": "Missing",
+      "interest rate trends": "Missing",
+      "container orchestration": "Found",
+      "kubernetes deployment": "Found",
+      "financial regulation": "Missing"
+    }
+  },
+  {
+    "id": "GS-035",
+    "source_document": "Forestry management plans aim to prevent deforestation.",
+    "candidate_document": "The article describes database indexing strategies.",
+    "human_similarity": 0.08,
+    "concept_labels": {
+      "deforestation prevention": "Missing",
+      "forest management planning": "Missing",
+      "database indexing strategies": "Found",
+      "query optimization": "Found",
+      "data retention policies": "Missing"
+    }
+  },
+  {
+    "id": "GS-036",
+    "source_document": "The nutrition report evaluates dietary habits and health outcomes.",
+    "candidate_document": "The guide discusses load balancing in distributed systems.",
+    "human_similarity": 0.06,
+    "concept_labels": {
+      "dietary habit analysis": "Missing",
+      "public health outcomes": "Missing",
+      "load balancing techniques": "Found",
+      "distributed systems design": "Found",
+      "nutrition policy": "Missing"
+    }
+  },
+  {
+    "id": "GS-037",
+    "source_document": "Quality assurance includes regression testing and defect tracking.",
+    "candidate_document": "Bug tracking systems support software quality control.",
+    "human_similarity": 0.81,
+    "concept_labels": {
+      "quality assurance processes": "Found",
+      "regression testing": "Found",
+      "defect tracking": "Found",
+      "financial audits": "Missing",
+      "supplier compliance": "Missing"
+    }
+  },
+  {
+    "id": "GS-038",
+    "source_document": "Logistics planning reduces delivery delays through route optimization.",
+    "candidate_document": "Optimized routing improves delivery efficiency.",
+    "human_similarity": 0.78,
+    "concept_labels": {
+      "logistics planning": "Found",
+      "route optimization": "Found",
+      "delivery efficiency": "Found",
+      "inventory audits": "Missing",
+      "carbon footprint tracking": "Missing"
+    }
+  },
+  {
+    "id": "GS-039",
+    "source_document": "The organization enforces GDPR compliance for personal data handling.",
+    "candidate_document": "Policies ensure adherence to data protection regulations.",
+    "human_similarity": 0.84,
+    "concept_labels": {
+      "GDPR compliance": "Found",
+      "data protection regulations": "Found",
+      "personal data handling": "Found",
+      "supplier redundancy": "Missing",
+      "financial disclosures": "Missing"
+    }
+  },
+  {
+    "id": "GS-040",
+    "source_document": "Business continuity planning includes backup infrastructure.",
+    "candidate_document": "Redundant systems support disaster recovery strategies.",
+    "human_similarity": 0.83,
+    "concept_labels": {
+      "business continuity planning": "Found",
+      "backup infrastructure": "Found",
+      "disaster recovery strategies": "Found",
+      "cyber threat intelligence": "Missing",
+      "employee engagement": "Missing"
+    }
+  },
+  {
+    "id": "GS-041",
+    "source_document": "Energy policy evaluates renewable subsidy impacts.",
+    "candidate_document": "The document explains CI/CD pipelines.",
+    "human_similarity": 0.09,
+    "concept_labels": {
+      "renewable energy subsidies": "Missing",
+      "energy policy evaluation": "Missing",
+      "CI/CD pipelines": "Found",
+      "software delivery automation": "Found",
+      "supplier audits": "Missing"
+    }
+  },
+  {
+    "id": "GS-042",
+    "source_document": "The museum preserves ancient artifacts.",
+    "candidate_document": "The paper focuses on neural networks for image recognition.",
+    "human_similarity": 0.05,
+    "concept_labels": {
+      "artifact preservation": "Missing",
+      "museum conservation practices": "Missing",
+      "neural networks": "Found",
+      "image recognition": "Found",
+      "ethical sourcing": "Missing"
+    }
+  },
+  {
+    "id": "GS-043",
+    "source_document": "Supplier redundancy ensures operational resilience.",
+    "candidate_document": "Backup vendors are maintained to avoid supply disruptions.",
+    "human_similarity": 0.86,
+    "concept_labels": {
+      "supplier redundancy": "Found",
+      "backup vendors": "Found",
+      "operational resilience": "Found",
+      "carbon disclosures": "Missing",
+      "employee wellness": "Missing"
+    }
+  },
+  {
+    "id": "GS-044",
+    "source_document": "Access reviews validate user permissions periodically.",
+    "candidate_document": "System access is reviewed to ensure role compliance.",
+    "human_similarity": 0.82,
+    "concept_labels": {
+      "access reviews": "Found",
+      "user permission validation": "Found",
+      "role compliance": "Found",
+      "supplier audits": "Missing",
+      "financial transparency": "Missing"
+    }
+  },
+  {
+    "id": "GS-045",
+    "source_document": "Incident management defines escalation procedures.",
+    "candidate_document": "Security teams follow defined escalation workflows.",
+    "human_similarity": 0.8,
+    "concept_labels": {
+      "incident management procedures": "Found",
+      "escalation workflows": "Found",
+      "security operations": "Found",
+      "inventory controls": "Missing",
+      "environmental sustainability": "Missing"
+    }
+  },
+  {
+    "id": "GS-046",
+    "source_document": "Inventory turnover metrics improve supply efficiency.",
+    "candidate_document": "Stock rotation ratios are used to optimize inventory.",
+    "human_similarity": 0.79,
+    "concept_labels": {
+      "inventory turnover metrics": "Found",
+      "supply efficiency optimization": "Found",
+      "stock rotation analysis": "Found",
+      "supplier audits": "Missing",
+      "data encryption": "Missing"
+    }
+  },
+  {
+    "id": "GS-047",
+    "source_document": "Employee training includes compliance awareness sessions.",
+    "candidate_document": "Staff attend mandatory compliance training.",
+    "human_similarity": 0.81,
+    "concept_labels": {
+      "compliance training programs": "Found",
+      "employee awareness sessions": "Found",
+      "regulatory compliance education": "Found",
+      "cyber threat monitoring": "Missing",
+      "supplier performance": "Missing"
+    }
+  },
+  {
+    "id": "GS-048",
+    "source_document": "Climate research studies glacier melting trends.",
+    "candidate_document": "The guide explains REST API authentication.",
+    "human_similarity": 0.04,
+    "concept_labels": {
+      "glacier melting analysis": "Missing",
+      "climate research studies": "Missing",
+      "API authentication": "Found",
+      "token-based security": "Found",
+      "environmental governance": "Missing"
+    }
+  },
+  {
+    "id": "GS-049",
+    "source_document": "Corporate governance mandates board independence.",
+    "candidate_document": "Independent directors are required under governance policies.",
+    "human_similarity": 0.85,
+    "concept_labels": {
+      "board independence": "Found",
+      "corporate governance mandates": "Found",
+      "director independence requirements": "Found",
+      "cyber incident response": "Missing",
+      "supplier ethics audits": "Missing"
+    }
+  },
+  {
+    "id": "GS-050",
+    "source_document": "Customer analytics identify purchasing patterns.",
+    "candidate_document": "Buying behavior is analyzed using transaction data.",
+    "human_similarity": 0.82,
+    "concept_labels": {
+      "customer analytics": "Found",
+      "purchasing pattern analysis": "Found",
+      "transaction data analysis": "Found",
+      "inventory audits": "Missing",
+      "financial disclosures": "Missing"
+    }
+  },
+  {
+    "id": "GS-051",
+    "source_document": "Risk assessments identify operational vulnerabilities.",
+    "candidate_document": "Operational risks are evaluated during assessments.",
+    "human_similarity": 0.8,
+    "concept_labels": {
+      "risk assessment processes": "Found",
+      "operational vulnerability identification": "Found",
+      "risk evaluation methods": "Found",
+      "supplier diversification": "Missing",
+      "carbon reporting": "Missing"
+    }
+  },
+  {
+    "id": "GS-052",
+    "source_document": "Environmental audits track compliance with sustainability standards.",
+    "candidate_document": "Sustainability compliance is reviewed through audits.",
+    "human_similarity": 0.83,
+    "concept_labels": {
+      "environmental audits": "Found",
+      "sustainability compliance tracking": "Found",
+      "regulatory environmental standards": "Found",
+      "data retention policies": "Missing",
+      "financial audits": "Missing"
+    }
+  },
+  {
+    "id": "GS-053",
+    "source_document": "Disaster recovery plans include data center redundancy.",
+    "candidate_document": "Backup data centers support recovery operations.",
+    "human_similarity": 0.84,
+    "concept_labels": {
+      "disaster recovery planning": "Found",
+      "data center redundancy": "Found",
+      "recovery operations support": "Found",
+      "cybersecurity awareness": "Missing",
+      "supplier ethics": "Missing"
+    }
+  },
+  {
+    "id": "GS-054",
+    "source_document": "The research analyzes ocean temperature rise.",
+    "candidate_document": "The article discusses software refactoring techniques.",
+    "human_similarity": 0.05,
+    "concept_labels": {
+      "ocean temperature analysis": "Missing",
+      "climate change research": "Missing",
+      "software refactoring techniques": "Found",
+      "code optimization": "Found",
+      "data governance": "Missing"
+    }
+  },
+  {
+    "id": "GS-055",
+    "source_document": "Procurement policies enforce ethical sourcing.",
+    "candidate_document": "Suppliers are selected based on ethical standards.",
+    "human_similarity": 0.83,
+    "concept_labels": {
+      "ethical sourcing policies": "Found",
+      "supplier selection criteria": "Found",
+      "procurement standards": "Found",
+      "cybersecurity governance": "Missing",
+      "carbon emissions": "Missing"
+    }
+  },
+  {
+    "id": "GS-056",
+    "source_document": "Audit trails ensure traceability of transactions.",
+    "candidate_document": "Transaction logs provide traceability records.",
+    "human_similarity": 0.82,
+    "concept_labels": {
+      "audit trail maintenance": "Found",
+      "transaction traceability": "Found",
+      "logging mechanisms": "Found",
+      "inventory turnover": "Missing",
+      "employee training": "Missing"
+    }
+  },
+  {
+    "id": "GS-057",
+    "source_document": "Supply chain mapping identifies supplier dependencies.",
+    "candidate_document": "Supplier relationships are mapped to assess dependencies.",
+    "human_similarity": 0.84,
+    "concept_labels": {
+      "supply chain mapping": "Found",
+      "supplier dependency identification": "Found",
+      "vendor relationship analysis": "Found",
+      "carbon accounting": "Missing",
+      "financial audits": "Missing"
+    }
+  },
+  {
+    "id": "GS-058",
+    "source_document": "Threat modeling anticipates cyber attack scenarios.",
+    "candidate_document": "Potential cyber threats are modeled to improve defenses.",
+    "human_similarity": 0.83,
+    "concept_labels": {
+      "threat modeling": "Found",
+      "cyber attack scenario analysis": "Found",
+      "defensive strategy planning": "Found",
+      "supplier audits": "Missing",
+      "environmental disclosures": "Missing"
+    }
+  },
+  {
+    "id": "GS-059",
+    "source_document": "Financial forecasting predicts revenue trends.",
+    "candidate_document": "Revenue projections are calculated using forecasting models.",
+    "human_similarity": 0.81,
+    "concept_labels": {
+      "financial forecasting": "Found",
+      "revenue trend prediction": "Found",
+      "forecasting models": "Found",
+      "cyber incident response": "Missing",
+      "supplier compliance": "Missing"
+    }
+  },
+  {
+    "id": "GS-060",
+    "source_document": "Compliance audits verify adherence to regulations.",
+    "candidate_document": "Regulatory compliance is assessed during audits.",
+    "human_similarity": 0.84,
+    "concept_labels": {
+      "compliance audits": "Found",
+      "regulatory adherence verification": "Found",
+      "audit evaluation procedures": "Found",
+      "inventory optimization": "Missing",
+      "carbon reduction initiatives": "Missing"
+    }
+  },
+  {
+    "id": "GS-061",
+    "source_document": "AI research explores reinforcement learning methods.",
+    "candidate_document": "The paper discusses convolutional neural networks.",
+    "human_similarity": 0.12,
+    "concept_labels": {
+      "reinforcement learning research": "Missing",
+      "AI research methods": "Missing",
+      "convolutional neural networks": "Found",
+      "deep learning architectures": "Found",
+      "ethical AI governance": "Missing"
+    }
+  },
+  {
+    "id": "GS-062",
+    "source_document": "Employee satisfaction surveys measure workplace engagement.",
+    "candidate_document": "Staff engagement is evaluated through periodic surveys.",
+    "human_similarity": 0.8,
+    "concept_labels": {
+      "employee satisfaction surveys": "Found",
+      "workplace engagement measurement": "Found",
+      "staff feedback collection": "Found",
+      "supplier diversification": "Missing",
+      "carbon accounting": "Missing"
+    }
+  },
+  {
+    "id": "GS-063",
+    "source_document": "The study evaluates renewable energy storage solutions.",
+    "candidate_document": "The documentation covers microservice deployment patterns.",
+    "human_similarity": 0.09,
+    "concept_labels": {
+      "renewable energy storage": "Missing",
+      "energy storage research": "Missing",
+      "microservice deployment": "Found",
+      "distributed application architecture": "Found",
+      "energy policy compliance": "Missing"
+    }
+  },
+  {
+    "id": "GS-064",
+    "source_document": "Access logging records system usage events.",
+    "candidate_document": "User activity logs track system access.",
+    "human_similarity": 0.81,
+    "concept_labels": {
+      "access logging": "Found",
+      "system usage recording": "Found",
+      "user activity tracking": "Found",
+      "supplier audits": "Missing",
+      "environmental sustainability": "Missing"
+    }
+  },
+  {
+    "id": "GS-065",
+    "source_document": "Governance frameworks define risk oversight responsibilities.",
+    "candidate_document": "Risk oversight roles are defined within governance structures.",
+    "human_similarity": 0.83,
+    "concept_labels": {
+      "governance frameworks": "Found",
+      "risk oversight responsibilities": "Found",
+      "organizational accountability": "Found",
+      "cyber threat modeling": "Missing",
+      "supplier ethics audits": "Missing"
+    }
+  },
+  {
+    "id": "GS-066",
+    "source_document": "Data anonymization protects user privacy.",
+    "candidate_document": "Personal identifiers are removed to preserve privacy.",
+    "human_similarity": 0.82,
+    "concept_labels": {
+      "data anonymization": "Found",
+      "privacy protection methods": "Found",
+      "personal data masking": "Found",
+      "inventory controls": "Missing",
+      "financial reporting": "Missing"
+    }
+  },
+  {
+    "id": "GS-067",
+    "source_document": "The research studies deforestation patterns globally.",
+    "candidate_document": "The guide explains message queue systems.",
+    "human_similarity": 0.06,
+    "concept_labels": {
+      "deforestation pattern analysis": "Missing",
+      "global forestry research": "Missing",
+      "message queue systems": "Found",
+      "asynchronous processing": "Found",
+      "environmental policy": "Missing"
+    }
+  },
+  {
+    "id": "GS-068",
+    "source_document": "Financial controls prevent unauthorized transactions.",
+    "candidate_document": "Controls are implemented to block unauthorized payments.",
+    "human_similarity": 0.83,
+    "concept_labels": {
+      "financial controls": "Found",
+      "unauthorized transaction prevention": "Found",
+      "payment authorization safeguards": "Found",
+      "supplier audits": "Missing",
+      "cybersecurity awareness": "Missing"
+    }
+  },
+  {
+    "id": "GS-069",
+    "source_document": "Vendor onboarding includes compliance verification.",
+    "candidate_document": "New suppliers undergo compliance checks.",
+    "human_similarity": 0.82,
+    "concept_labels": {
+      "vendor onboarding procedures": "Found",
+      "supplier compliance verification": "Found",
+      "onboarding checks": "Found",
+      "data retention policies": "Missing",
+      "environmental disclosures": "Missing"
+    }
+  },
+  {
+    "id": "GS-070",
+    "source_document": "Continuous monitoring detects anomalous system behavior.",
+    "candidate_document": "Monitoring tools identify abnormal system activity.",
+    "human_similarity": 0.84,
+    "concept_labels": {
+      "continuous monitoring": "Found",
+      "anomalous behavior detection": "Found",
+      "system activity analysis": "Found",
+      "supplier risk management": "Missing",
+      "carbon accounting": "Missing"
+    }
+  },
+  {
+    "id": "GS-071",
+    "source_document": "The study investigates glacier retreat patterns.",
+    "candidate_document": "The paper discusses RESTful API design.",
+    "human_similarity": 0.05,
+    "concept_labels": {
+      "glacier retreat analysis": "Missing",
+      "climate change studies": "Missing",
+      "RESTful API design": "Found",
+      "software interface architecture": "Found",
+      "environmental reporting": "Missing"
+    }
+  },
+  {
+    "id": "GS-072",
+    "source_document": "Operational dashboards track performance indicators.",
+    "candidate_document": "Key metrics are visualized in dashboards.",
+    "human_similarity": 0.82,
+    "concept_labels": {
+      "operational dashboards": "Found",
+      "performance indicator tracking": "Found",
+      "metric visualization": "Found",
+      "supplier audits": "Missing",
+      "data privacy governance": "Missing"
+    }
+  },
+  {
+    "id": "GS-073",
+    "source_document": "Ethics committees oversee compliance programs.",
+    "candidate_document": "Compliance oversight is managed by ethics boards.",
+    "human_similarity": 0.81,
+    "concept_labels": {
+      "ethics committees": "Found",
+      "compliance oversight": "Found",
+      "governance supervision": "Found",
+      "cyber incident response": "Missing",
+      "supplier diversification": "Missing"
+    }
+  },
+  {
+    "id": "GS-074",
+    "source_document": "The analysis explores soil erosion causes.",
+    "candidate_document": "The documentation explains event-driven architectures.",
+    "human_similarity": 0.07,
+    "concept_labels": {
+      "soil erosion analysis": "Missing",
+      "environmental impact research": "Missing",
+      "event-driven architectures": "Found",
+      "distributed system patterns": "Found",
+      "sustainability audits": "Missing"
+    }
+  },
+  {
+    "id": "GS-075",
+    "source_document": "Penetration testing evaluates system vulnerabilities.",
+    "candidate_document": "Security testing identifies exploitable weaknesses.",
+    "human_similarity": 0.83,
+    "concept_labels": {
+      "penetration testing": "Found",
+      "system vulnerability evaluation": "Found",
+      "security testing methods": "Found",
+      "supplier compliance": "Missing",
+      "environmental disclosures": "Missing"
+    }
+  },
+  {
+    "id": "GS-076",
+    "source_document": "Revenue recognition follows accounting principles.",
+    "candidate_document": "Accounting standards govern revenue reporting.",
+    "human_similarity": 0.82,
+    "concept_labels": {
+      "revenue recognition principles": "Found",
+      "accounting standards adherence": "Found",
+      "financial reporting rules": "Found",
+      "cyber threat intelligence": "Missing",
+      "supplier audits": "Missing"
+    }
+  },
+  {
+    "id": "GS-077",
+    "source_document": "Supply chain audits verify vendor compliance.",
+    "candidate_document": "Vendors are audited to confirm compliance.",
+    "human_similarity": 0.83,
+    "concept_labels": {
+      "supply chain audits": "Found",
+      "vendor compliance verification": "Found",
+      "audit confirmation procedures": "Found",
+      "data anonymization": "Missing",
+      "carbon footprint tracking": "Missing"
+    }
+  },
+  {
+    "id": "GS-078",
+    "source_document": "Fraud detection systems identify suspicious activity.",
+    "candidate_document": "Anomaly detection flags potential fraud.",
+    "human_similarity": 0.84,
+    "concept_labels": {
+      "fraud detection systems": "Found",
+      "suspicious activity identification": "Found",
+      "anomaly detection techniques": "Found",
+      "supplier redundancy": "Missing",
+      "environmental sustainability": "Missing"
+    }
+  },
+  {
+    "id": "GS-079",
+    "source_document": "Compliance reporting supports regulatory transparency.",
+    "candidate_document": "Reports ensure transparency for regulators.",
+    "human_similarity": 0.82,
+    "concept_labels": {
+      "compliance reporting": "Found",
+      "regulatory transparency": "Found",
+      "reporting obligations": "Found",
+      "inventory controls": "Missing",
+      "cybersecurity governance": "Missing"
+    }
+  },
+  {
+    "id": "GS-080",
+    "source_document": "System hardening reduces attack surfaces.",
+    "candidate_document": "Security configurations minimize vulnerabilities.",
+    "human_similarity": 0.83,
+    "concept_labels": {
+      "system hardening": "Found",
+      "attack surface reduction": "Found",
+      "security configuration practices": "Found",
+      "supplier audits": "Missing",
+      "carbon disclosures": "Missing"
+    }
+  },
+  {
+    "id": "GS-081",
+    "source_document": "The study examines biodiversity loss.",
+    "candidate_document": "The guide explains OAuth authorization.",
+    "human_similarity": 0.04,
+    "concept_labels": {
+      "biodiversity loss analysis": "Missing",
+      "ecological research": "Missing",
+      "OAuth authorization": "Found",
+      "access token management": "Found",
+      "environmental policy": "Missing"
+    }
+  },
+  {
+    "id": "GS-082",
+    "source_document": "Operational risk frameworks define mitigation strategies.",
+    "candidate_document": "Risk mitigation approaches are outlined in frameworks.",
+    "human_similarity": 0.82,
+    "concept_labels": {
+      "operational risk frameworks": "Found",
+      "risk mitigation strategies": "Found",
+      "framework-based risk management": "Found",
+      "supplier compliance audits": "Missing",
+      "carbon accounting": "Missing"
+    }
+  },
+  {
+    "id": "GS-083",
+    "source_document": "Change management governs system modifications.",
+    "candidate_document": "Controlled change processes manage system updates.",
+    "human_similarity": 0.81,
+    "concept_labels": {
+      "change management processes": "Found",
+      "system modification controls": "Found",
+      "controlled update procedures": "Found",
+      "cyber threat modeling": "Missing",
+      "supplier ethics": "Missing"
+    }
+  },
+  {
+    "id": "GS-084",
+    "source_document": "Ethical AI guidelines regulate model usage.",
+    "candidate_document": "Policies define responsible AI practices.",
+    "human_similarity": 0.82,
+    "concept_labels": {
+      "ethical AI guidelines": "Found",
+      "responsible AI practices": "Found",
+      "AI governance policies": "Found",
+      "supplier audits": "Missing",
+      "environmental disclosures": "Missing"
+    }
+  },
+  {
+    "id": "GS-085",
+    "source_document": "Access control lists restrict network resources.",
+    "candidate_document": "Network ACLs define allowed connections.",
+    "human_similarity": 0.83,
+    "concept_labels": {
+      "access control lists": "Found",
+      "network resource restriction": "Found",
+      "connection authorization rules": "Found",
+      "inventory optimization": "Missing",
+      "carbon footprint reduction": "Missing"
+    }
+  },
+  {
+    "id": "GS-086",
+    "source_document": "Climate modeling predicts future temperature scenarios.",
+    "candidate_document": "The article describes message broker architectures.",
+    "human_similarity": 0.05,
+    "concept_labels": {
+      "climate modeling": "Missing",
+      "temperature prediction analysis": "Missing",
+      "message broker architectures": "Found",
+      "event streaming systems": "Found",
+      "environmental governance": "Missing"
+    }
+  },
+  {
+    "id": "GS-087",
+    "source_document": "Vendor risk assessments identify exposure levels.",
+    "candidate_document": "Supplier risk is evaluated using assessment frameworks.",
+    "human_similarity": 0.83,
+    "concept_labels": {
+      "vendor risk assessments": "Found",
+      "supplier risk evaluation": "Found",
+      "risk exposure analysis": "Found",
+      "data anonymization": "Missing",
+      "carbon disclosures": "Missing"
+    }
+  },
+  {
+    "id": "GS-088",
+    "source_document": "Operational resilience planning mitigates disruptions.",
+    "candidate_document": "Plans are designed to maintain operations during disruptions.",
+    "human_similarity": 0.84,
+    "concept_labels": {
+      "operational resilience planning": "Found",
+      "disruption mitigation strategies": "Found",
+      "continuity planning": "Found",
+      "supplier diversification": "Missing",
+      "environmental sustainability": "Missing"
+    }
+  },
+  {
+    "id": "GS-089",
+    "source_document": "Compliance training ensures regulatory awareness.",
+    "candidate_document": "Employees receive training on regulatory requirements.",
+    "human_similarity": 0.81,
+    "concept_labels": {
+      "compliance training": "Found",
+      "regulatory awareness education": "Found",
+      "employee compliance programs": "Found",
+      "cyber threat detection": "Missing",
+      "supplier audits": "Missing"
+    }
+  },
+  {
+    "id": "GS-090",
+    "source_document": "Encryption standards protect sensitive data.",
+    "candidate_document": "Data is encrypted according to security standards.",
+    "human_similarity": 0.83,
+    "concept_labels": {
+      "encryption standards": "Found",
+      "sensitive data protection": "Found",
+      "cryptographic safeguards": "Found",
+      "inventory audits": "Missing",
+      "environmental reporting": "Missing"
+    }
+  },
+  {
+    "id": "GS-091",
+    "source_document": "Supply forecasting estimates future demand.",
+    "candidate_document": "Demand projections are calculated using forecasting models.",
+    "human_similarity": 0.82,
+    "concept_labels": {
+      "supply forecasting": "Found",
+      "future demand estimation": "Found",
+      "forecasting models": "Found",
+      "supplier redundancy": "Missing",
+      "carbon accounting": "Missing"
+    }
+  },
+  {
+    "id": "GS-092",
+    "source_document": "Threat intelligence informs security defenses.",
+    "candidate_document": "Security defenses are guided by threat intelligence reports.",
+    "human_similarity": 0.84,
+    "concept_labels": {
+      "threat intelligence": "Found",
+      "security defense planning": "Found",
+      "intelligence-driven security": "Found",
+      "supplier audits": "Missing",
+      "environmental sustainability": "Missing"
+    }
+  },
+  {
+    "id": "GS-093",
+    "source_document": "Environmental impact assessments study pollution levels.",
+    "candidate_document": "The guide explains caching strategies in systems.",
+    "human_similarity": 0.06,
+    "concept_labels": {
+      "environmental impact assessments": "Missing",
+      "pollution level analysis": "Missing",
+      "caching strategies": "Found",
+      "system performance optimization": "Found",
+      "environmental compliance": "Missing"
+    }
+  },
+  {
+    "id": "GS-094",
+    "source_document": "Audit committees oversee financial reporting.",
+    "candidate_document": "Committees supervise the financial reporting process.",
+    "human_similarity": 0.83,
+    "concept_labels": {
+      "audit committees": "Found",
+      "financial reporting oversight": "Found",
+      "governance supervision": "Found",
+      "cybersecurity governance": "Missing",
+      "supplier ethics audits": "Missing"
+    }
+  },
+  {
+    "id": "GS-095",
+    "source_document": "Identity management controls user authentication.",
+    "candidate_document": "Authentication systems manage user identities.",
+    "human_similarity": 0.82,
+    "concept_labels": {
+      "identity management": "Found",
+      "user authentication controls": "Found",
+      "access management systems": "Found",
+      "supplier audits": "Missing",
+      "carbon disclosures": "Missing"
+    }
+  },
+  {
+    "id": "GS-096",
+    "source_document": "Policy reviews ensure documentation accuracy.",
+    "candidate_document": "Documents are reviewed periodically for accuracy.",
+    "human_similarity": 0.8,
+    "concept_labels": {
+      "policy review processes": "Found",
+      "documentation accuracy checks": "Found",
+      "periodic document review": "Found",
+      "inventory turnover": "Missing",
+      "environmental reporting": "Missing"
+    }
+  },
+  {
+    "id": "GS-097",
+    "source_document": "System monitoring tracks application performance.",
+    "candidate_document": "Performance metrics are monitored continuously.",
+    "human_similarity": 0.83,
+    "concept_labels": {
+      "system monitoring": "Found",
+      "application performance tracking": "Found",
+      "continuous performance metrics": "Found",
+      "supplier compliance": "Missing",
+      "carbon accounting": "Missing"
+    }
+  },
+  {
+    "id": "GS-098",
+    "source_document": "Risk registers document identified threats.",
+    "candidate_document": "Threats are logged in risk registers.",
+    "human_similarity": 0.81,
+    "concept_labels": {
+      "risk registers": "Found",
+      "threat documentation": "Found",
+      "risk tracking records": "Found",
+      "supplier audits": "Missing",
+      "environmental sustainability": "Missing"
+    }
+  },
+  {
+    "id": "GS-099",
+    "source_document": "Access policies restrict privileged accounts.",
+    "candidate_document": "Privileged access is controlled by policy.",
+    "human_similarity": 0.82,
+    "concept_labels": {
+      "privileged access policies": "Found",
+      "account restriction controls": "Found",
+      "access governance": "Found",
+      "inventory audits": "Missing",
+      "carbon footprint tracking": "Missing"
+    }
+  },
+  {
+    "id": "GS-100",
+    "source_document": "Continuous improvement programs refine processes.",
+    "candidate_document": "Process refinement initiatives drive continuous improvement.",
+    "human_similarity": 0.83,
+    "concept_labels": {
+      "continuous improvement programs": "Found",
+      "process refinement initiatives": "Found",
+      "operational excellence practices": "Found",
+      "supplier diversification": "Missing",
+      "environmental disclosures": "Missing"
+    }
+  }
+]
