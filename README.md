@@ -111,6 +111,15 @@ Metric computation scripts
 
 Pearson correlation and recall evaluation
 
+## Running Evaluation Metrics
+
+Metrics must be run inside the Docker container.
+
+```bash
+docker run -it explainable-semantic-similarity-api /bin/bash
+python -m evaluation.compute_metrics
+
+
 These are not required to run the API but are included for
 validation and research completeness.
 
@@ -139,4 +148,5 @@ explainable-semantic-similarity-api/
 Author
 
 Neeraj Bhatia
+
 (Provided for academic evaluation and review)
