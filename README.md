@@ -63,7 +63,9 @@ Step 2: Run the Container
 
 docker run -p 8000:8000 explainable-semantic-similarity-api
 
-Note: You can change the port accordingly. For example in my system port 8080 is assigned to ChromaDB, so here i will test it with docker run -p 8001:8000 explainable-semantic-similarity-api
+Note: You can change the port accordingly. For example in my system port 8080 is assigned to ChromaDB,
+so here i will run it with docker run -p 8001:8000 explainable-semantic-similarity-api
+
 
 Step 3: Open Swagger UI
 
@@ -71,7 +73,8 @@ Open the following URL in your browser:
 
 http://localhost:8000/docs
 
-Note: You can change the port accordingly. For example in my system port 8080 is assigned to ChromaDB, so here i will test it with http://localhost:8001/docs
+Note: You can change the port accordingly. For example in my system port 8080 is assigned to ChromaDB,
+so im my case i will test it with http://localhost:8001/docs
 
 You will see the interactive Swagger interface.
 
@@ -250,5 +253,6 @@ This ensures the system is not only technically correct, but also practically us
 Author
 Neeraj Bhatia
 (Provided for academic evaluation and review)
+
 
 
